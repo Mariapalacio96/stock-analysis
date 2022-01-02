@@ -43,10 +43,11 @@ At begining of this project, we started developing the code by creating differen
 
 After refactoring the code, we can see how short the code can actually be since we are not repeatinf a few steps. Another pro of refactoring is how faster the code runs after we edited.
 
-![image](https://user-images.githubusercontent.com/95391094/147891838-1648fcc0-be24-43e9-ba38-7e7982509a4f.png)
+![image](https://user-images.githubusercontent.com/95391094/147892184-3758bed1-a7f3-4491-bddc-95f0ca2e49d2.png)
+
+![image](https://user-images.githubusercontent.com/95391094/147892189-e850d52c-2a60-48ba-8916-6de785f84f71.png)
 
 
-![image](https://user-images.githubusercontent.com/95391094/147891828-445f7679-4ae0-4e6d-9943-ad737dbaa3ae.png)
 
 
 
